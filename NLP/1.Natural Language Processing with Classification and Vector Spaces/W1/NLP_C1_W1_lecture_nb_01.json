@@ -22,7 +22,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 1,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -45,7 +45,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 2,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -62,7 +62,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": 3,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -80,7 +80,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": 4,
    "metadata": {},
    "outputs": [
     {
@@ -91,9 +91,7 @@
       "Number of negative tweets:  5000\n",
       "\n",
       "The type of all_positive_tweets is:  <class 'list'>\n",
-      "The type of a tweet entry is:  <class 'str'>\n",
-      "@Lamb2ja Hey James! How odd :/ Please call our Contact Centre on 02392441234 and we will be able to assist you :) Many thanks!\n",
-      "Everything in the kids section of IKEA is so cute. Shame I'm nearly 19 in 2 months :(\n"
+      "The type of a tweet entry is:  <class 'str'>\n"
      ]
     }
    ],
@@ -102,10 +100,7 @@
     "print('Number of negative tweets: ', len(all_negative_tweets))\n",
     "\n",
     "print('\\nThe type of all_positive_tweets is: ', type(all_positive_tweets))\n",
-    "print('The type of a tweet entry is: ', type(all_negative_tweets[0]))\n",
-    "\n",
-    "print(all_positive_tweets[1])\n",
-    "print(all_negative_tweets[1])"
+    "print('The type of a tweet entry is: ', type(all_negative_tweets[0]))"
    ]
   },
   {
@@ -119,7 +114,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
+   "execution_count": 5,
    "metadata": {},
    "outputs": [
     {
@@ -167,15 +162,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
+   "execution_count": 6,
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "\u001b[92m@MELISSAMARIE you have my Numbero! lolz hope all is well :)\n",
-      "\u001b[91m@keelzy81 you know, I actually got suspended for smoking, can you believe it? Teenage me was such a fucking cliche :(\n"
+      "\u001b[92mYeah boii! Look what arrived in the post this morning! The latest #SmashingBook5 it's my new bible :D @smashingmag http://t.co/1E7cfAtEVd\n",
+      "\u001b[91m@justinbieber if u see this, can u follow me? I'm waiting so long :(\n"
      ]
     }
    ],
@@ -217,7 +212,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": 7,
    "metadata": {},
    "outputs": [
     {
@@ -243,7 +238,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
+   "execution_count": 8,
    "metadata": {},
    "outputs": [
     {
@@ -260,7 +255,7 @@
        "True"
       ]
      },
-     "execution_count": 9,
+     "execution_count": 8,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -272,7 +267,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
+   "execution_count": 9,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -295,7 +290,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 11,
+   "execution_count": 10,
    "metadata": {},
    "outputs": [
     {
@@ -336,7 +331,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 12,
+   "execution_count": 11,
    "metadata": {},
    "outputs": [
     {
@@ -380,7 +375,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 13,
+   "execution_count": 12,
    "metadata": {},
    "outputs": [
     {
@@ -422,7 +417,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 14,
+   "execution_count": 13,
    "metadata": {},
    "outputs": [
     {
@@ -545,7 +540,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 16,
+   "execution_count": 17,
    "metadata": {},
    "outputs": [
     {
